@@ -1,0 +1,151 @@
+ImageID,GroundTruthLabel,VIT_Malignancy_Score,VIT_Malignant,Triage,CLIP_Answer,CLIP_Malignant,GIT_Answer,GIT_Malignant
+ISIC_0024306.jpg,Benign,0.0436,No,STOP,37.35%. It looks benign.,No,a large red spot on a wall,No
+ISIC_0024307.jpg,Benign,0.0044,No,STOP,35.23%. It looks benign.,No,a red spot on a red surface,No
+ISIC_0024308.jpg,Benign,0.0,No,STOP,41.81%. It looks benign.,No,a brown spot on a skin,No
+ISIC_0024309.jpg,Benign,0.049,No,STOP,17.18%. It looks benign.,No,a large bump on a man ' s back,No
+ISIC_0024310.jpg,Malignant,0.0081,No,STOP,50.51%. It looks malignant.,Yes,a flower in a pot,No
+ISIC_0024311.jpg,Benign,0.0,No,STOP,37.78%. It looks benign.,No,a vein on a piece of cloth,No
+ISIC_0024312.jpg,Benign,0.7978,Yes,Escalate,46.99%. It looks benign.,No,a brown spot on the surface,No
+ISIC_0024313.jpg,Malignant,0.0,No,STOP,40.40%. It looks benign.,No,a brown spot on the surface,No
+ISIC_0024314.jpg,Benign,0.0,No,STOP,42.44%. It looks benign.,No,a brown spot on the surface of a large piece of wood,No
+ISIC_0024315.jpg,Malignant,0.0,No,STOP,55.57%. It looks malignant.,Yes,a man with brown spots,No
+ISIC_0024316.jpg,Benign,0.0,No,STOP,25.96%. It looks benign.,No,a vein in a person ' s skin,No
+ISIC_0024317.jpg,Benign,0.0002,No,STOP,43.19%. It looks benign.,No,a brown spot on a white surface,No
+ISIC_0024318.jpg,Benign,0.0018,No,STOP,65.07%. It looks malignant.,Yes,a large flower,No
+ISIC_0024319.jpg,Benign,0.0,No,STOP,49.36%. It looks benign.,No,a large brown spot on a surface,No
+ISIC_0024320.jpg,Benign,0.0003,No,STOP,32.89%. It looks benign.,No,a close - up of the stems of a plant,No
+ISIC_0024321.jpg,Benign,0.0001,No,STOP,11.82%. It looks benign.,No,a person with a mole on their back,No
+ISIC_0024322.jpg,Benign,0.0,No,STOP,47.21%. It looks benign.,No,a dark spot on the surface,No
+ISIC_0024323.jpg,Malignant,0.4407,No,STOP,15.99%. It looks benign.,No,a coral with tiny holes,No
+ISIC_0024324.jpg,Benign,0.0001,No,STOP,55.27%. It looks malignant.,Yes,a dirty spot on the ground,No
+ISIC_0024325.jpg,Benign,0.0627,No,STOP,43.76%. It looks benign.,No,a brown spot on the pink,No
+ISIC_0024326.jpg,Benign,0.009,No,STOP,66.14%. It looks malignant.,Yes,a large hole in the back of a man,No
+ISIC_0024327.jpg,Benign,0.0,No,STOP,46.40%. It looks benign.,No,a large bruise on a woman ' s back,No
+ISIC_0024328.jpg,Benign,0.0085,No,STOP,42.12%. It looks benign.,No,a brown spot on a piece of wood,No
+ISIC_0024329.jpg,Malignant,0.9775,Yes,Escalate,31.37%. It looks benign.,No,pink and white seaweed,No
+ISIC_0024330.jpg,Benign,0.0022,No,STOP,40.35%. It looks benign.,No,a pink flower,No
+ISIC_0024331.jpg,Malignant,0.9996,Yes,Escalate,18.81%. It looks benign.,No,a brown floor,No
+ISIC_0024332.jpg,Malignant,0.4621,No,STOP,50.34%. It looks malignant.,Yes,a pink vein in a white brain,No
+ISIC_0024333.jpg,Malignant,0.1069,No,STOP,35.32%. It looks benign.,No,a brown spot on a body of water,No
+ISIC_0024334.jpg,Benign,0.0005,No,STOP,41.61%. It looks benign.,No,a large bump on a person ' s back,No
+ISIC_0024335.jpg,Benign,0.0016,No,STOP,56.00%. It looks malignant.,Yes,a dark spot on a body.,No
+ISIC_0024336.jpg,Benign,0.0,No,STOP,38.64%. It looks benign.,No,a large pink spot on the ground,No
+ISIC_0024337.jpg,Benign,0.0086,No,STOP,26.49%. It looks benign.,No,a circle on the wall,No
+ISIC_0024338.jpg,Benign,0.4811,No,STOP,28.01%. It looks benign.,No,a brown spot on a body.,No
+ISIC_0024339.jpg,Benign,0.0166,No,STOP,56.59%. It looks malignant.,Yes,a large spot on a man ' s back,No
+ISIC_0024340.jpg,Benign,0.0116,No,STOP,62.01%. It looks malignant.,Yes,a large area of dirt,No
+ISIC_0024341.jpg,Benign,0.0052,No,STOP,40.89%. It looks benign.,No,a bump on a person ' s skin,No
+ISIC_0024342.jpg,Benign,0.0,No,STOP,18.17%. It looks benign.,No,a leaf on a table,No
+ISIC_0024343.jpg,Benign,0.0,No,STOP,39.78%. It looks benign.,No,a brown spot on the surface,No
+ISIC_0024344.jpg,Benign,0.5995,Yes,Escalate,51.43%. It looks malignant.,Yes,a pink skin with a hole in it,No
+ISIC_0024345.jpg,Malignant,1.0,Yes,Escalate,28.89%. It looks benign.,No,a wall on the side of a building,No
+ISIC_0024346.jpg,Benign,0.0,No,STOP,37.81%. It looks benign.,No,a large bump in the pink,No
+ISIC_0024347.jpg,Benign,0.9567,Yes,Escalate,66.22%. It looks malignant.,Yes,a large purple spot on a body.,No
+ISIC_0024348.jpg,Benign,0.036,No,STOP,30.66%. It looks benign.,No,a brown spot on the wall,No
+ISIC_0024349.jpg,Benign,0.9999,Yes,Escalate,58.84%. It looks malignant.,Yes,a purple sea weed,No
+ISIC_0024350.jpg,Benign,0.0,No,STOP,54.18%. It looks malignant.,Yes,a large shadow on the ground,No
+ISIC_0024351.jpg,Malignant,0.2527,No,STOP,48.40%. It looks benign.,No,a pink vein on a pink surface,No
+ISIC_0024352.jpg,Benign,0.0,No,STOP,61.58%. It looks malignant.,Yes,a brown spot on the surface,No
+ISIC_0024353.jpg,Benign,0.0005,No,STOP,60.13%. It looks malignant.,Yes,a spot on a woman ' s back,No
+ISIC_0024354.jpg,Benign,0.0006,No,STOP,35.69%. It looks benign.,No,a large body of water,No
+ISIC_0024355.jpg,Benign,0.0,No,STOP,59.65%. It looks malignant.,Yes,a dark spot on the ground,No
+ISIC_0024356.jpg,Benign,0.0,No,STOP,39.99%. It looks benign.,No,a large body of dead skin,No
+ISIC_0024357.jpg,Benign,0.0001,No,STOP,29.97%. It looks benign.,No,a wall on the side of a building,No
+ISIC_0024358.jpg,Benign,0.8395,Yes,Escalate,54.36%. It looks malignant.,Yes,a brown spot on the ground,No
+ISIC_0024359.jpg,Benign,0.0001,No,STOP,49.62%. It looks benign.,No,a hairy spot on a man,No
+ISIC_0024360.jpg,Malignant,1.0,Yes,Escalate,27.20%. It looks benign.,No,a pink spot on a skin,No
+ISIC_0024361.jpg,Benign,0.3527,No,STOP,42.42%. It looks benign.,No,a large area of brown,No
+ISIC_0024362.jpg,Benign,0.1047,No,STOP,35.24%. It looks benign.,No,a large bump on a man ' s back,No
+ISIC_0024363.jpg,Benign,0.0,No,STOP,41.99%. It looks benign.,No,a large spot on the skin,No
+ISIC_0024364.jpg,Benign,0.0009,No,STOP,49.90%. It looks benign.,No,a large hole in the back of a man,No
+ISIC_0024365.jpg,Benign,0.0257,No,STOP,33.50%. It looks benign.,No,a bump on a person ' s skin,No
+ISIC_0024366.jpg,Benign,0.0,No,STOP,73.29%. It looks malignant.,Yes,a brown spot on the surface,No
+ISIC_0024367.jpg,Malignant,0.0001,No,STOP,54.44%. It looks malignant.,Yes,a brown spot on a skin,No
+ISIC_0024368.jpg,Benign,0.0,No,STOP,35.59%. It looks benign.,No,a pink vein in the center of a human brain,No
+ISIC_0024369.jpg,Benign,0.0,No,STOP,37.65%. It looks benign.,No,a sprig of brown sprigs,No
+ISIC_0024370.jpg,Benign,0.0,No,STOP,48.47%. It looks benign.,No,purple jellyfish on the table,No
+ISIC_0024371.jpg,Benign,0.4238,No,STOP,18.91%. It looks benign.,No,a scribble in the skin,No
+ISIC_0024372.jpg,Malignant,0.9996,Yes,Escalate,34.48%. It looks benign.,No,pink coral with a dark spot,No
+ISIC_0024373.jpg,Benign,0.0004,No,STOP,39.38%. It looks benign.,No,a large bruise on a person ' s back,No
+ISIC_0024374.jpg,Benign,0.0,No,STOP,70.06%. It looks malignant.,Yes,a man ' s skin is covered in pollen,No
+ISIC_0024375.jpg,Benign,0.0001,No,STOP,37.25%. It looks benign.,No,a pink textured wall,No
+ISIC_0024376.jpg,Benign,0.0003,No,STOP,37.62%. It looks benign.,No,a mole on a man ' s back,No
+ISIC_0024377.jpg,Benign,0.0,No,STOP,43.09%. It looks benign.,No,brown spots on a white background,No
+ISIC_0024378.jpg,Benign,0.1749,No,STOP,51.81%. It looks malignant.,Yes,a black spot on the woman ' s belly,No
+ISIC_0024379.jpg,Benign,0.0003,No,STOP,32.10%. It looks benign.,No,a brown spot on a white paper,No
+ISIC_0024380.jpg,Benign,0.0,No,STOP,59.03%. It looks malignant.,Yes,a large brown spot on a body,No
+ISIC_0024381.jpg,Benign,0.9956,Yes,Escalate,59.72%. It looks malignant.,Yes,a large purple substance,No
+ISIC_0024382.jpg,Benign,0.3019,No,STOP,23.73%. It looks benign.,No,a pink spot on a skin,No
+ISIC_0024383.jpg,Benign,0.0004,No,STOP,65.43%. It looks malignant.,Yes,a pink seaweed with a pink spot,No
+ISIC_0024384.jpg,Benign,0.0002,No,STOP,29.84%. It looks benign.,No,a red background,No
+ISIC_0024385.jpg,Benign,0.0134,No,STOP,26.37%. It looks benign.,No,spots on a pink background,No
+ISIC_0024386.jpg,Benign,0.0009,No,STOP,44.02%. It looks benign.,No,a pink textured surface with a heart shaped hole in it.,No
+ISIC_0024387.jpg,Benign,0.0002,No,STOP,35.00%. It looks benign.,No,a brown spot on the wall,No
+ISIC_0024388.jpg,Benign,0.0136,No,STOP,37.32%. It looks benign.,No,a wall with a crack,No
+ISIC_0024389.jpg,Benign,0.0004,No,STOP,33.91%. It looks benign.,No,a pink spot on the skin,No
+ISIC_0024390.jpg,Benign,0.0026,No,STOP,37.42%. It looks benign.,No,a pattern of blood on a surface,No
+ISIC_0024391.jpg,Benign,0.9991,Yes,Escalate,50.39%. It looks malignant.,Yes,a pink bump on a pink wall,No
+ISIC_0024392.jpg,Benign,0.0001,No,STOP,54.81%. It looks malignant.,Yes,a large area of brown,No
+ISIC_0024393.jpg,Benign,0.0169,No,STOP,57.40%. It looks malignant.,Yes,a dark spot on a person ' s back,No
+ISIC_0024394.jpg,Benign,0.0008,No,STOP,74.37%. It looks malignant.,Yes,a large brown spot on a tree.,No
+ISIC_0024395.jpg,Benign,0.0,No,STOP,40.86%. It looks benign.,No,a pink skin on a person,No
+ISIC_0024396.jpg,Benign,0.0012,No,STOP,44.20%. It looks benign.,No,a man,No
+ISIC_0024397.jpg,Benign,0.0,No,STOP,24.68%. It looks benign.,No,the lines are black,No
+ISIC_0024398.jpg,Benign,0.0107,No,STOP,47.82%. It looks benign.,No,a purple spot on a man ' s back,No
+ISIC_0024399.jpg,Benign,0.0006,No,STOP,62.66%. It looks malignant.,Yes,a dark spot on a person ' s back,No
+ISIC_0024400.jpg,Malignant,0.9999,Yes,Escalate,26.71%. It looks benign.,No,a man ' s hairy arm,No
+ISIC_0024401.jpg,Benign,0.0,No,STOP,48.80%. It looks benign.,No,a spot on a man ' s back,No
+ISIC_0024402.jpg,Benign,0.0002,No,STOP,31.23%. It looks benign.,No,a heart shaped dot,No
+ISIC_0024403.jpg,Malignant,0.0575,No,STOP,43.32%. It looks benign.,No,a plant in the sand,No
+ISIC_0024404.jpg,Benign,0.0021,No,STOP,44.43%. It looks benign.,No,a black spot on a man ' s back,No
+ISIC_0024405.jpg,Benign,0.0,No,STOP,45.88%. It looks benign.,No,a dark spot on a pink background,No
+ISIC_0024406.jpg,Benign,0.0,No,STOP,65.56%. It looks malignant.,Yes,a large area of black substance,No
+ISIC_0024407.jpg,Benign,0.0,No,STOP,69.20%. It looks malignant.,Yes,a sprinkle of hair,No
+ISIC_0024408.jpg,Benign,0.2616,No,STOP,37.99%. It looks benign.,No,a large brown spot on a skin,No
+ISIC_0024409.jpg,Benign,0.0069,No,STOP,44.65%. It looks benign.,No,a brown spot on a skin,No
+ISIC_0024410.jpg,Malignant,0.0,No,STOP,56.50%. It looks malignant.,Yes,a jellyfish in a sea of water,No
+ISIC_0024411.jpg,Malignant,0.9734,Yes,Escalate,35.42%. It looks benign.,No,a pink bump on a man ' s back,No
+ISIC_0024412.jpg,Benign,0.001,No,STOP,56.14%. It looks malignant.,Yes,a pink vein in the sand,No
+ISIC_0024413.jpg,Benign,0.0,No,STOP,49.20%. It looks benign.,No,a large spot on the skin,No
+ISIC_0024414.jpg,Benign,0.0,No,STOP,44.55%. It looks benign.,No,a wet spot on a pink background,No
+ISIC_0024415.jpg,Benign,0.0006,No,STOP,33.69%. It looks benign.,No,a heart shape with a pattern,No
+ISIC_0024416.jpg,Benign,0.0001,No,STOP,30.68%. It looks benign.,No,a wall on the side of a building,No
+ISIC_0024417.jpg,Benign,0.007,No,STOP,54.76%. It looks malignant.,Yes,a brown spot on the wall,No
+ISIC_0024418.jpg,Malignant,0.0004,No,STOP,48.39%. It looks benign.,No,a brown spot on the snow,No
+ISIC_0024419.jpg,Benign,0.0001,No,STOP,28.21%. It looks benign.,No,a mole on a person ' s back,No
+ISIC_0024420.jpg,Benign,0.006,No,STOP,21.68%. It looks benign.,No,a pink flower in the desert,No
+ISIC_0024421.jpg,Benign,0.0,No,STOP,32.85%. It looks benign.,No,a photo of a wire in the sky,No
+ISIC_0024422.jpg,Benign,0.0,No,STOP,30.97%. It looks benign.,No,a pattern of brown spots,No
+ISIC_0024423.jpg,Benign,0.0,No,STOP,46.77%. It looks benign.,No,a brown spot on the skin,No
+ISIC_0024424.jpg,Benign,0.1465,No,STOP,49.59%. It looks benign.,No,a pink skin with tiny holes,No
+ISIC_0024425.jpg,Benign,0.0016,No,STOP,45.57%. It looks benign.,No,a brown spot on a pink surface,No
+ISIC_0024426.jpg,Benign,0.9972,Yes,Escalate,41.14%. It looks benign.,No,a pink and white speckled pattern,No
+ISIC_0024427.jpg,Benign,0.0001,No,STOP,37.65%. It looks benign.,No,a spot on a person ' s back,No
+ISIC_0024428.jpg,Benign,0.0001,No,STOP,45.73%. It looks benign.,No,a spot on a pink background,No
+ISIC_0024429.jpg,Benign,0.0,No,STOP,44.15%. It looks benign.,No,a body of water,No
+ISIC_0024430.jpg,Benign,0.0,No,STOP,52.88%. It looks malignant.,Yes,a red spot on the ground,No
+ISIC_0024431.jpg,Malignant,0.9999,Yes,Escalate,42.75%. It looks benign.,No,a pink flower in a heart shape,No
+ISIC_0024432.jpg,Malignant,0.9892,Yes,Escalate,36.02%. It looks benign.,No,a vein in the skin,No
+ISIC_0024433.jpg,Benign,0.0003,No,STOP,45.08%. It looks benign.,No,a brown spot on a pink background,No
+ISIC_0024434.jpg,Benign,0.0001,No,STOP,57.45%. It looks malignant.,Yes,a heart shape in the skin,No
+ISIC_0024435.jpg,Benign,0.0021,No,STOP,37.73%. It looks benign.,No,a brown spot on a man ' s back,No
+ISIC_0024436.jpg,Malignant,0.9889,Yes,Escalate,38.92%. It looks benign.,No,a pink spot on the back of a toilet,No
+ISIC_0024437.jpg,Benign,0.1334,No,STOP,61.24%. It looks malignant.,Yes,a brown spot on a body.,No
+ISIC_0024438.jpg,Benign,0.0,No,STOP,31.60%. It looks benign.,No,a black spot on a skin,No
+ISIC_0024439.jpg,Benign,0.0885,No,STOP,38.97%. It looks benign.,No,a wall on the side of a building,No
+ISIC_0024440.jpg,Benign,0.9539,Yes,Escalate,38.22%. It looks benign.,No,a spot on a person ' s body,No
+ISIC_0024441.jpg,Benign,0.0,No,STOP,55.44%. It looks malignant.,Yes,a large area of brown spots,No
+ISIC_0024442.jpg,Benign,0.0001,No,STOP,44.74%. It looks benign.,No,a hole in the ground,No
+ISIC_0024443.jpg,Malignant,0.7469,Yes,Escalate,49.70%. It looks benign.,No,a pink and white speckled spot,No
+ISIC_0024444.jpg,Benign,0.0001,No,STOP,62.57%. It looks malignant.,Yes,a purple flower,No
+ISIC_0024445.jpg,Benign,0.0022,No,STOP,36.52%. It looks benign.,No,a dark spot on the surface,No
+ISIC_0024446.jpg,Benign,0.0007,No,STOP,28.57%. It looks benign.,No,a wall with a pattern of water,No
+ISIC_0024447.jpg,Benign,0.0,No,STOP,42.68%. It looks benign.,No,a brown spot on a body.,No
+ISIC_0024448.jpg,Malignant,1.0,Yes,Escalate,42.23%. It looks benign.,No,a vein in the skin,No
+ISIC_0024449.jpg,Malignant,0.9897,Yes,Escalate,40.08%. It looks benign.,No,a wall of rust on the side of a building in the desert.,No
+ISIC_0024450.jpg,Malignant,0.9999,Yes,Escalate,22.79%. It looks benign.,No,a pink spot on the wall,No
+ISIC_0024451.jpg,Benign,0.0003,No,STOP,47.90%. It looks benign.,No,a pink background,No
+ISIC_0024452.jpg,Malignant,0.988,Yes,Escalate,54.44%. It looks malignant.,Yes,a pink vein in the skin,No
+ISIC_0024453.jpg,Benign,0.026,No,STOP,44.17%. It looks benign.,No,a brown spot on a pink background,No
+ISIC_0024454.jpg,Malignant,0.947,Yes,Escalate,26.83%. It looks benign.,No,a pink coral with tiny bubbles,No
+ISIC_0024455.jpg,Benign,0.0,No,STOP,28.12%. It looks benign.,No,a person ' s arm,No
